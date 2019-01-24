@@ -1,4 +1,4 @@
 #Some code here
-a=1
 b=1
-print(a+b)
+print(b)
+c=3
